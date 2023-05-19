@@ -5,7 +5,7 @@
 
 🗺 I live in San Luis, Argentina, and I love Mate 🖤🧉🖤
 
-👨‍💻 I'm working on medical projects with my partner, where we use all our knowledge to improve people's lives.
+👨‍💻 I'm working on projects with my partner, where we use all our knowledge to improve people's lives.
 
 🧠 I'm currently learning Python and Django and expanding my knowledge with new technologies.
 
