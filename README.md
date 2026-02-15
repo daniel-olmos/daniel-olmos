@@ -1,47 +1,56 @@
 # Hi, I'm Daniel Olmos (BigDan) 🤘
 
-### CTO | Senior Software Engineer | Tech Consultant
+### Tech Founder | CTO | Software Architect
 
-I am a software leader with over 10 years of experience building scalable solutions that bridge the gap between complex technology and human needs. Currently, my focus is on transforming the **EdTech** and **Pharma** industries through purposeful engineering.
+I build technology-driven businesses.
 
----
-
-## 🚀 Professional Focus & Impact
-
-I believe technology should be a tool for social improvement. My work currently focuses on:
-
-* **EdTech:** Architecting platforms that allow people to learn faster, better, and more efficiently.
-* **HealthTech / Pharma:** Designing systems that simplify access to medication, ensuring that health services are orderly, accessible, and human-centric.
-
-> "I don't just write code; I build solutions that improve lives."
+With 10+ years creating web products and digital ecosystems, I focus on turning complex ideas into scalable software companies. My work sits at the intersection of product vision, engineering execution, and business strategy — helping teams go from idea → MVP → scalable platform.
 
 ---
 
-## 🛠 Tech Stack & Leadership
+## 🚀 What I Build
 
-As a CTO and Senior Engineer, my toolkit combines deep technical execution with architectural oversight:
+I believe software should create leverage — for companies, teams, and people.
 
-**Languages & Backend**
-* Python (Expert) & Django
-* PHP & Kotlin
-* JavaScript (Node.js)
+My current focus:
 
-**Data Architecture**
-* Expertise in Relational Systems: MySQL, SQL Server, Oracle (Transact-SQL / PL-SQL)
-* WebServices: Advanced SOAP & REST API Design
+* **EdTech Platforms:** Building learning ecosystems that combine technology, automation, and user-centric experiences.
+* **Business & Pharma Systems:** Designing operational software that simplifies complex workflows and improves decision-making.
+* **Startup Products:** Creating scalable digital solutions with a strong product mindset and long-term architecture in mind.
 
-**Strategic Skills**
-* Technical Leadership & Mentoring
-* Business Consulting & Digital Transformation
-* Software Architecture & System Scalability
+> "I don’t just develop software — I build systems that enable businesses to grow."
 
 ---
 
-## 🌎 Personal & Contact
+## 🛠 Tech & Product Expertise
+
+I combine deep technical execution with founder-level product thinking.
+
+**Core Stack**
+* PHP (Expert) & Laravel
+* Modern Web Development & APIs
+* SQL & Relational Databases (MySQL, SQL Server, Oracle)
+* Automation & System Integrations
+
+**Architecture**
+* Modular Monoliths & Scalable Backend Design
+* Domain-Driven Thinking
+* Event-driven approaches & Read Models
+* SaaS & multi-tenant platforms
+
+**Founder & Leadership Skills**
+* Product strategy & technical decision-making
+* Leading engineering teams from 0 → MVP → scale
+* Turning business problems into technical solutions
+* Building sustainable tech ecosystems
+
+---
+
+## 🌎 Beyond Code
 
 * 📍 Based in **San Luis, Argentina**.
-* 🧉 **Mate lover** and tech enthusiast.
-* 👨‍💼 CTO at [CFVPraxis](https://cfvpraxis.com).
-* 💬 I'm always open to discussing new ideas, tech architecture, or how to scale impact-driven businesses.
+* 🧉 Mate lover, builder mindset.
+* 👨‍💼 Founder / CTO at CFVPraxis.
+* 💬 I enjoy talking about startups, software architecture, and building products that actually solve real problems.
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-olmos/)
